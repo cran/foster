@@ -1,10 +1,11 @@
-222836fd94690374989691c1909e8842 *DESCRIPTION
+acb47fa61b892157d857d99d547ad5f5 *DESCRIPTION
 234da7b1c42937324479d3a866ff8e08 *NAMESPACE
+2aca4d263cd0767334be10641b23fce0 *NEWS.md
 d9eb97f497a032411a5ced0f7d61cc8a *R/accuracy.R
 9dac85471ca9d3e5c219f3cc2f0b3849 *R/calcIndices.R
 a04c8beed2217f14fc840c429d1eacde *R/edges.R
 0e6c0e136f09e9eaa7b77c0ba0e2436b *R/focalMultiBand.R
-396e20b05c805a586d44431732817b02 *R/getSample.R
+8cc25350985696772776b7e4397e6077 *R/getSample.R
 a1c23b04d45ee62cfcb339cfdd20503c *R/getSampleValues.R
 e14e491e083592c0cefcb3df5b6d753c *R/matchExtent.R
 226eed49cb998dcf9ea30a7032439e29 *R/matchResolution.R
@@ -19,7 +20,7 @@ d587f8c20f3ae2c5adde1ce352809391 *R/utils.R
 0a68fa5f6bbc887409b5ed89cbdb14bf *build/vignette.rds
 6dfc0aba02d8ef5ee88fe1d883d6f56e *inst/doc/foster-example.R
 180a2ac5e578c58c4cf6cf3d5f7da4f3 *inst/doc/foster-example.Rmd
-61eddba16472bb59b61261cfa67878b8 *inst/doc/foster-example.html
+62776de8e89c9c002d493c9ffa0bbbaa *inst/doc/foster-example.html
 3b82184d6582a8c6db312e8ad4604786 *inst/extdata/examples/ALS_metrics_cov_mean.tif
 e9d9d1d5f6271a61c2d5e06017385acb *inst/extdata/examples/ALS_metrics_p95.tif
 d03b95c65318029056fa32ee7c5602d0 *inst/extdata/examples/Landsat_BAP_2006.tif
